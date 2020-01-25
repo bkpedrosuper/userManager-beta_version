@@ -1,0 +1,12 @@
+{
+    "users":[
+        {
+            "login": "bkpedrosuper",
+            "criptpassword": "3433489"
+        },
+        {
+            "login": "admin",
+            "criptpassword": "92668751"
+        }
+    ]
+}
