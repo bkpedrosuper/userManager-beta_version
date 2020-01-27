@@ -40,7 +40,7 @@
             </div>
 
             <div id="formulario">
-                <label for="">Você gostaria de trabalhar na RotaExata?</label><br><br>
+                <label for="">Você gostaria de trabalhar?</label><br><br>
                 <input type="radio" name="radio" v-model="radio1" value="Sim" id="radio1">Sim<br>
                 <input type="radio" name="radio" v-model="radio2" value="Claro" id="radio2">Claro<br>
                 <input type="radio" name="radio" v-model="radio3" value="obvio que sim ne brow" id="radio3">obvio que sim ne brow<br>
@@ -63,7 +63,7 @@
             <strong>Comentário:</strong>
             <p>{{comment}}</p>
             <p>----------</p>
-            <strong>Você quer trabalhar na RotaExata? - Opções Escolhidas</strong>
+            <strong>Você quer trabalhar? - Opções Escolhidas</strong>
             <div id="options" v-bind:key="option.id" v-for="option in options">
                 <p>{{option}}</p>
             </div>

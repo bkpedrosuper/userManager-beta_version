@@ -1,6 +1,6 @@
 <template>
     <div id="main-header">
-        <header id="main-header">Formulário - RotaExata</header>
+        <header id="main-header">Formulário</header>
     </div>
 </template>
 
