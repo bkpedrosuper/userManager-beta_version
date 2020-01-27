@@ -47,7 +47,7 @@
             </div>
 
             <div id="buttones">
-                <button v-on:click.prevent="validaForm" id="submitbutton" type="submit">Submeter</button>
+                <button v-on:click.prevent="validaForm" id="submitbutton" type="submit">Submit</button>
                 <button type="reset" id="resetbutton">Reset</button>
             </div>
 
@@ -220,9 +220,9 @@ form{
     color: #FFF;
     padding: 10px 15px;
     border-radius: 5px;
-    border:0;
     font-weight: bold;
     cursor: pointer;
+    border: 0;
 
 }
 

@@ -29,3 +29,13 @@ export default {
   width: 100%;
 }
 </style>
+
+<style>
+*{
+  margin: 0;
+  padding: 0;
+  outline: 0;
+  box-sizing: border-box;
+}
+
+</style>
