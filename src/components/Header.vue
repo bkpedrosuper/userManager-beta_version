@@ -10,7 +10,7 @@ export default {
 </script>
 
 <style scoped>
-header#main-header{
+header #main-header{
     height: 60px;
     background: rgb(58, 82, 219);
     font-size: 18px;
