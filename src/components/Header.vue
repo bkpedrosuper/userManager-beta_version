@@ -1,6 +1,6 @@
 <template>
     <div id="main-header">
-        <header id="main-header">Teste porra</header>
+        <header id="main-header">Formulário para Inscrição</header>
     </div>
 </template>
 
